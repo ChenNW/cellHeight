@@ -1,0 +1,19 @@
+//
+//  cnw.pch
+//  cell自定义高度
+//
+//  Created by RUAN-JSB-CNW on 2017/6/14.
+//  Copyright © 2017年 cnw. All rights reserved.
+//
+
+#ifndef cnw_pch
+#define cnw_pch
+
+#import "UIView+Extension.h"
+#import <Masonry.h>
+#import <UIButton+WebCache.h>
+#import <UIImageView+WebCache.h>
+#define kWidth  [UIScreen mainScreen].bounds.size.width
+#define kHeight [UIScreen mainScreen].bounds.size.height
+#endif 
+
